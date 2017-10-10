@@ -5,7 +5,7 @@
    <artifactId>Spring3HibernateApp</artifactId>
    <packaging>war</packaging>
    <scm>
-      <developerConnection>scm:git:git@github.com:OpsTree/ContinuousIntegration.git</developerConnection>
+      <developerConnection>scm:git:git@github.com:ashwani-opstree/ContinuousIntegration.git</developerConnection>
       <tag>HEAD</tag>
    </scm>
    <distributionManagement>
